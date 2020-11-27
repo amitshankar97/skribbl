@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{46F6226D-D470-4A14-B6A3-30CAE7B5636E}|Default">
+  <MonoDevelop.Ide.ItemProperties.Skribbl PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Skribbl/Models/Chat.cs">
+    <Files>
+      <File FileName="Skribbl/Models/Game.cs" Line="12" Column="29" />
+      <File FileName="Skribbl/Models/Chat.cs" Line="30" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Skribbl" expanded="True">
+            <Node name="Skribbl" expanded="True">
+              <Node name="Hubs" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Chat.cs" selected="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
